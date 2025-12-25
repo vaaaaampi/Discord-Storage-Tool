@@ -1,0 +1,64 @@
+{
+  "files": {
+    "2025-12-25 10-20-20.avi": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/1453862274937786533/1453878710431252746/2025-12-25_10-20-20.avi.part1?ex=694f0d90&is=694dbc10&hm=b065da36d8f2c383407cd5c583d4d1180b93695f40ebc5be9f048dd58ca68a78&",
+        "name": "2025-12-25_10-20-20.avi.part1",
+        "timestamp": 1766702096381,
+        "messageId": "1453878710657749157"
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/1453862274937786533/1453878720879267881/2025-12-25_10-20-20.avi.part2?ex=694f0d92&is=694dbc12&hm=6eb08bc7bb768e04ef2d0df4c50f36622a1c447dd845c75fb117d6bd14654c21&",
+        "name": "2025-12-25_10-20-20.avi.part2",
+        "timestamp": 1766702098920,
+        "messageId": "1453878721307213919"
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/1453862274937786533/1453878732283711538/2025-12-25_10-20-20.avi.part3?ex=694f0d95&is=694dbc15&hm=d332c1ab16f88ae615fb84a889eab3e20484c4e301892f318d2262ea1d65a9a7&",
+        "name": "2025-12-25_10-20-20.avi.part3",
+        "timestamp": 1766702101748,
+        "messageId": "1453878733168447559"
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/1453862274937786533/1453878743431905440/2025-12-25_10-20-20.avi.part4?ex=694f0d98&is=694dbc18&hm=85d55cab1bc28c41468a974d7144b288066c73f4eea70fd4fd3c7fbc716faae3&",
+        "name": "2025-12-25_10-20-20.avi.part4",
+        "timestamp": 1766702104310,
+        "messageId": "1453878743914254408"
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/1453862274937786533/1453878753817264352/2025-12-25_10-20-20.avi.part5?ex=694f0d9a&is=694dbc1a&hm=f648d2c33c29436a2b4bd3c987b5dd52b5e08d2e6375b7985d9141a15c3e3831&",
+        "name": "2025-12-25_10-20-20.avi.part5",
+        "timestamp": 1766702106782,
+        "messageId": "1453878754282835990"
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/1453862274937786533/1453878763413573825/2025-12-25_10-20-20.avi.part6?ex=694f0d9c&is=694dbc1c&hm=34501ad005fb4260f8ebacd3619d0d261348be273f0ef0c55c95d249d68f457c&",
+        "name": "2025-12-25_10-20-20.avi.part6",
+        "timestamp": 1766702109145,
+        "messageId": "1453878764193710175"
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/1453862274937786533/1453878774016770192/2025-12-25_10-20-20.avi.part7?ex=694f0d9f&is=694dbc1f&hm=15005cf30d325ca24e21ea2dcdc465480dfbc23be35e982fb7011bf5f914ed07&",
+        "name": "2025-12-25_10-20-20.avi.part7",
+        "timestamp": 1766702111622,
+        "messageId": "1453878774583132180"
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/1453862274937786533/1453878784129503422/2025-12-25_10-20-20.avi.part8?ex=694f0da1&is=694dbc21&hm=ea2f0dfc8fa035a2f7e9ac1236c911b48fa88cf987d0816a4ca7e21b93d2c6aa&",
+        "name": "2025-12-25_10-20-20.avi.part8",
+        "timestamp": 1766702114055,
+        "messageId": "1453878784787746917"
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/1453862274937786533/1453878791213678622/2025-12-25_10-20-20.avi.part9?ex=694f0da3&is=694dbc23&hm=ec24460e99bcfac0953e0fc52c5b7541bac73026043257ca47a507cf351efaf0&",
+        "name": "2025-12-25_10-20-20.avi.part9",
+        "timestamp": 1766702115694,
+        "messageId": "1453878791662342346"
+      }
+    ]
+  },
+  "stats": {
+    "totalMessages": 3,
+    "totalFiles": 178
+  }
+}

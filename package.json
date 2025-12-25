@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-gui",
+  "version": "1.0.0",
+  "description": "Bot Discord con UI para subir/descargar archivos grandes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "express": "^4.22.1",
+    "multer": "^2.0.2"
+  }
+}

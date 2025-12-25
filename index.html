@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Discord File Manager</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 20px; }
+button { margin-left: 5px; }
+.file-list { margin-top: 20px; }
+.stats { margin-top: 20px; }
+</style>
+</head>
+<body>
+<h1>Discord File Manager</h1>
+
+<form id="uploadForm">
+  <input type="file" id="filesInput" name="files" multiple>
+  <button type="submit">Upload Files</button>
+</form>
+
+<div class="stats" id="stats"></div>
+
+<div class="file-list">
+  <h2>Files</h2>
+  <ul id="fileList"></ul>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
